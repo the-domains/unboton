@@ -1,7 +1,7 @@
 name: unboton
 favicon: null
-layout_spectrum: 0.7574274437502027
-typography_spectrum: 0.46906729228794575
+layout_spectrum: 0.50089
+typography_spectrum: 0.4651
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.2731980679091066
-  lightness: 0.8053174770902842
-  saturation: 0.8705430652480572
-  rhythmicContrast: 0.8625783226452768
+    - '#241f20'
+    - '#00c3b8'
+    - '#dfdfe0'
+    - '#6ed4d1'
+    - '#008080'
+  brandStrength: 0.3125
+  lightness: 0.875
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
