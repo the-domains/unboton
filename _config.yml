@@ -2,6 +2,7 @@ name: unboton
 favicon: null
 layout_spectrum: 0.50089
 typography_spectrum: 0.4651
+title: UnBoton
 cta:
   domain: null
   bucket: null
